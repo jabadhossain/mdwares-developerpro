@@ -27,12 +27,13 @@ p{
 } 
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half{
     width: 60%;
-  padding-left: 2%;
+  padding-left: 2%
+    
 }
-
 
 .half img{
     width: 90%; 
@@ -48,6 +49,8 @@ section{
     border-radius: 5%; 
     padding: 10px 30px; 
 }
+
+
 
  
 
