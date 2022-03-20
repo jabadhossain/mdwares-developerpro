@@ -51,8 +51,16 @@ section{
 }
 .big-dream{
     background-image: url(images/res000.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 300px; 
+ 
+    
 }
-
+.small{
+    background-image: url(images/res3.png);
+    background-position:
+}
 
 
  
